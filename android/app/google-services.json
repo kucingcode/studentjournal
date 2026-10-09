@@ -12,7 +12,12 @@
           "package_name": "io.github.kucingcode.studentjournal"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "210689923630-4kn69nau145m6dfke7nssvvvscio3v1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyC8IXQarTct1ullWhKcT139GxeeH0LLeco"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210689923630-4kn69nau145m6dfke7nssvvvscio3v1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
