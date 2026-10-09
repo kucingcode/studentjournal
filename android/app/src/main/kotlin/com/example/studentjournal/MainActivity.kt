@@ -1,4 +1,4 @@
-package com.example.studentjournal
+package io.github.kucingcode.studentjournal
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210689923630",
+    "project_id": "studentjournal-1cc44",
+    "storage_bucket": "studentjournal-1cc44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210689923630:android:f3dc6f73ac0d8972e51dbf",
+        "android_client_info": {
+          "package_name": "io.github.kucingcode.studentjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8IXQarTct1ullWhKcT139GxeeH0LLeco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
